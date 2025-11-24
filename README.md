@@ -53,3 +53,10 @@ https://front-pf-henry.vercel.app/
 
 ---
 
+Contacto
+
+LinkedIn: https://www.linkedin.com/in/rafael-ibarra-921a42343
+
+Email: Rafaeliabrra0795@gmail.com
+
+Gracias por visitar mi perfil.
