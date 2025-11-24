@@ -1,16 +1,59 @@
-## Hi there 👋
+# 👋 ¡Hola! Soy **Rafael Ibarra**
 
-<!--
-**RafaIbarra05/RafaIbarra05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💻 Fullstack Developer | Backend Specialist  
+**JavaScript · TypeScript · Node.js · NestJS · Prisma · PostgreSQL · Docker**
 
-Here are some ideas to get you started:
+Apasionado por el desarrollo backend, la arquitectura limpia y la construcción de APIs robustas.  
+Me enfoco en crear soluciones escalables, bien estructuradas y fáciles de mantener, aplicando buenas prácticas y patrones profesionales.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Sobre mí
+
+- 🎓 Recientemente egresado del Bootcamp **Soy Henry**  
+- 🧠 Me especializo en backend con **Node.js**, **NestJS** y **Prisma ORM**  
+- 🗄️ Experiencia en modelado de datos y bases SQL (**PostgreSQL**)  
+- 🔐 Manejo de autenticación JWT, roles y seguridad de APIs  
+- ☁️ Integración con servicios externos: **Mercado Pago**, **Cloudinary**, etc.  
+- 🐳 Trabajo con contenedores usando **Docker**  
+- 📦 Me encanta organizar código, modularizar y optimizar performance  
+- 📚 Siempre aprendiendo nuevas herramientas y tecnologías  
+- 🎯 Busco mi primera oportunidad profesional en IT
+
+---
+
+## 🛠️ Tech Stack
+
+**Backend:**  
+`Node.js` · `NestJS` · `Express` · `Prisma ORM`
+
+**Frontend:**  
+`React` · `Next.js` 
+
+**Base de Datos:**  
+`PostgreSQL` · `SQL`
+
+**Herramientas & Otros:**  
+`Docker` · `Git/GitHub` · `Swagger` · `Cloudinary` · `Mercado Pago`
+
+---
+
+## 📌 Proyecto Destacado — *Volantia*
+Plataforma completa de alquiler de vehículos entre particulares.
+
+### 🔧 Backend construido con:
+- NestJS + TypeScript  
+- Prisma ORM + PostgreSQL  
+- Autenticación JWT + manejo de roles  
+- Módulo de reservas, pagos, imágenes y dashboard multirol  
+- Webhooks y Checkout Pro de Mercado Pago  
+- Arquitectura modular y escalable
+
+https://front-pf-henry.vercel.app/
+
+---
+
+## 📈 Estadísticas
+
+```md
+![Rafa's GitHub stats](https://github-readme-stats.vercel.app/api?username=RafaIbarra05&show_icons=true&theme=tokyonight)
